@@ -1,0 +1,35 @@
+{
+  "users": {
+    "Krishmal2004": {
+      "profile": {
+        "firstName": "Krishmal",
+        "lastName": "2004",
+        "email": "krishmal@example.com",
+        "phone": "+94 70 219 5755",
+        "bio": "Experienced real estate agent specializing in residential properties.",
+        "lastUpdated": "2025-03-23 12:12:26"
+      },
+      "security": {
+        "password": "hashedPassword",
+        "lastPasswordChange": "2025-03-23 12:12:26"
+      },
+      "preferences": {
+        "language": "en",
+        "timezone": "Asia/Colombo",
+        "lastUpdated": "2025-03-23 12:12:26"
+      },
+      "notifications": {
+        "emailNotifications": true,
+        "smsNotifications": true,
+        "propertyUpdates": true,
+        "marketingEmails": false,
+        "lastUpdated": "2025-03-23 12:12:26"
+      },
+      "listings": {
+        "defaultPropertyType": "residential",
+        "displayCurrency": "LKR",
+        "lastUpdated": "2025-03-23 12:12:26"
+      }
+    }
+  }
+}

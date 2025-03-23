@@ -1,0 +1,124 @@
+{
+  "properties": [
+    {
+      "propertyId": "PROP1679432616000",
+      "agentId": "Krishmal2004",
+      "title": "Luxury Villa with Pool",
+      "type": "Villa",
+      "price": 750000.0,
+      "location": "Beverly Hills, CA",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFeet": 3500.0,
+      "description": "Beautiful luxury villa with modern amenities and stunning views.",
+      "amenities": [
+        "Swimming Pool",
+        "Garden",
+        "Garage",
+        "Security System",
+        "Smart Home"
+      ],
+      "images": [
+        "villa_front.jpg",
+        "villa_pool.jpg",
+        "villa_interior.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:03:36",
+      "updatedDate": "2025-03-21 22:03:36",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1679432617000",
+      "agentId": "Krishmal2004",
+      "title": "Modern Downtown Apartment",
+      "type": "Apartment",
+      "price": 450000.0,
+      "location": "Downtown, City Center",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 1200.0,
+      "description": "Contemporary apartment in prime location with city views.",
+      "amenities": [
+        "Gym",
+        "Parking",
+        "24/7 Security",
+        "Rooftop Garden"
+      ],
+      "images": [
+        "apt_living.jpg",
+        "apt_bedroom.jpg",
+        "apt_view.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:03:36",
+      "updatedDate": "2025-03-21 22:03:36",
+      "featured": true
+    },
+    {
+      "propertyId": "PROP1742640516158",
+      "agentId": "Krishmal2004",
+      "title": "Luxuary",
+      "type": "Commercial",
+      "price": 145623.0,
+      "location": "Home",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 2.0,
+      "description": "agentDashBoard.jsp",
+      "amenities": [
+        "gym"
+      ],
+      "images": [
+        "PHOTO-2025-03-10-22-23-39.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "updatedDate": "2025-03-21 22:12:27",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1742668203974",
+      "agentId": "Krishmal2004",
+      "title": "Vila",
+      "type": "Apartment",
+      "price": 150000.0,
+      "location": "Pannipitiya",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 123056.0,
+      "description": "AgentProfileUpdateServlet",
+      "amenities": [
+        "gym"
+      ],
+      "images": [
+        "PHOTO-2025-03-10-22-23-39.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "updatedDate": "2025-03-21 22:12:27",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1742670161752",
+      "agentId": "Krishmal2004",
+      "title": "Krishmal",
+      "type": "Commercial",
+      "price": 145236.0,
+      "location": "Nuwa",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 12563.0,
+      "description": "Appointment",
+      "amenities": [],
+      "images": [
+        "PHOTO-2025-03-10-22-23-39.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "updatedDate": "2025-03-21 22:12:27",
+      "featured": false
+    }
+  ],
+  "lastUpdated": "2025-03-21 22:12:27"
+}
